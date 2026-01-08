@@ -10,7 +10,7 @@ console-based Zuma-inspired arcade game implemented entirely in x86 Assembly lan
 
 ---
 
-### ▶ How to Run
+###  How to Run
 1. Open the project in **Visual Studio** with MASM support
 2. Ensure **Irvine32.inc** and related libraries are correctly configured
 3. Build and run in **32-bit mode**
